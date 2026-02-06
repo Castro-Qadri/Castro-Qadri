@@ -38,12 +38,12 @@ I am a BS CS student at Air University (5th semester). I am building full-stack 
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Castro-Qadri&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Castro-Qadri&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1" alt="streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Castro-Qadri&theme=tokyonight" alt="stats" />
+  <img src="https://streak-stats.demolab.com?user=Castro-Qadri&theme=tokyonight&hide_border=true" alt="streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Castro-Qadri&theme=tokyo-night&hide_border=true" alt="activity graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Castro-Qadri&theme=tokyonight" alt="activity graph" />
 </div>
 
 ## Pinned Projects
@@ -52,5 +52,5 @@ Pin your best repositories on your GitHub profile for quick access.
 ## Animation
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Castro-Qadri/Castro-Qadri/output/github-contribution-grid-snake.svg?v=1" alt="snake" />
+  <img src="https://raw.githubusercontent.com/Castro-Qadri/Castro-Qadri/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </div>
