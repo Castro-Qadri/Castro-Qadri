@@ -38,8 +38,8 @@ I am a BS CS student at Air University (5th semester). I am building full-stack 
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Castro-Qadri&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img src="https://streak-stats.demolab.com?user=Castro-Qadri&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Castro-Qadri&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="stats" />
+  <img src="https://streak-stats.demolab.com?user=Castro-Qadri&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="streak" />
 </div>
 
 <div align="center">
@@ -52,5 +52,5 @@ Pin your best repositories on your GitHub profile for quick access.
 ## Animation
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Castro-Qadri/Castro-Qadri/output/snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/Castro-Qadri/Castro-Qadri/output/snake.svg?v=1" alt="snake" />
 </div>
